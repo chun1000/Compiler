@@ -1,0 +1,46 @@
+int main()
+{
+	int cost_1 = 123456789012345678901234567890, int cost_2 = 15345;
+	int costResult;
+	costResult = cost_1 + cost_2;
+	costResult = cost_1 - 3.141592;
+	costResult = cost_2/3.14E13;
+	costResult = cost_2 * 364E-10;
+	
+	//this is only for test \o/\o/ 
+	//finish homework! \o/\o/\o/ :)
+
+	str veryveryveryveryveryverylongID____ = "such a small thing\n\t";
+	double hyperLongDouble = 1234567890.123456789012345678901234567890E+100;
+	print("%s\"",str);
+	
+	double alpha = 3.1415926535;
+	double beta  = 3.141592653537E+10;
+	int _6, __a, b_, _c_;
+
+	print("multi line string\
+			two line\n");
+	
+	int ___________________________________a;
+	int ___________________________________b;
+
+
+	while(1)
+	{
+		if(alpha > beta) print("\"alpha win\"");
+		else if(alpha >= beta) print("\"alpha win\"");
+		else if(alpha < beta) print("beta win\n");
+		else if(alpha <= beta) print("beta win\n");
+		else if(alpha == beta) print("ambigous\"\"");
+		else if(alpha != beta) print("ambigous\"\"");
+	}
+
+	return 0;
+	/*----------------------------------------------------
+      finish - 2019/03/30
+	  made by - Yunseo Chun
+	  student code - 201520882
+	  /////*****
+	  ---------------------------------------------------*/
+
+}

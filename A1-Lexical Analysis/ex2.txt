@@ -1,0 +1,7 @@
+int main()
+{
+	int a = 00123; //Unacceptable integer
+	$%!; //Unacceptable character
+	double __ = 3..145; //Unacceptable id and double
+	print("Hello World!\n); //Unacceptable String
+}
